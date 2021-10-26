@@ -1,1 +1,1 @@
-# sucker
+# sucker.exe/freecoin
